@@ -1,0 +1,408 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Code-Focused Agent Tools"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "OpenCode",
+          "description": "CLI coding agent supporting 75+ LLM providers including local models, with MCP integration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T23:03:55Z",
+            "owner": "anomalyco",
+            "repo": "opencode",
+            "stars": 197083
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenHands",
+          "description": "Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:51:46Z",
+            "owner": "OpenHands",
+            "repo": "OpenHands",
+            "stars": 83948
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cline",
+          "description": "Autonomous coding agent for VS Code that can create/edit files, run commands, and use the browser with human-in-the-loop approval at each step.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T23:02:01Z",
+            "owner": "cline",
+            "repo": "cline",
+            "stars": 66143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Goose",
+          "description": "Block's open-source, on-machine AI agent that automates engineering tasks end-to-end with MCP-based tool extensions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T21:41:42Z",
+            "owner": "aaif-goose",
+            "repo": "goose",
+            "stars": 52771
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aider",
+          "description": "AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-22T14:02:20Z",
+            "owner": "Aider-AI",
+            "repo": "aider",
+            "stars": 48176
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Continue",
+          "description": "Open-source IDE extension (VS Code, JetBrains) for building, sharing, and running custom AI code assistants with any model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T00:52:47Z",
+            "owner": "continuedev",
+            "repo": "continue",
+            "stars": 35478
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Roo Code",
+          "description": "Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T18:08:47Z",
+            "owner": "RooCodeInc",
+            "repo": "Roo-Code",
+            "stars": 24344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Plandex",
+          "description": "Terminal-based AI coding engine designed for large, multi-file tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-10-03T21:49:58Z",
+            "owner": "plandex-ai",
+            "repo": "plandex",
+            "stars": 15581
+          }
+        }
+      ],
+      "title": "Open Source — Model-Agnostic"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Claude Code",
+          "description": "Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T08:38:50Z",
+            "owner": "anthropics",
+            "repo": "claude-code",
+            "stars": 141357
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini CLI",
+          "description": "Google's terminal agent; optimized for Gemini models with tool use and MCP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:17:29Z",
+            "owner": "google-gemini",
+            "repo": "gemini-cli",
+            "stars": 106511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codex",
+          "description": "OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T23:04:40Z",
+            "owner": "openai",
+            "repo": "codex",
+            "stars": 105752
+          }
+        }
+      ],
+      "title": "Commercial Offering"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome MCP Servers",
+          "description": "Catalog of MCP server implementations for databases, APIs, browsers, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-03T03:09:55Z",
+            "owner": "punkpeye",
+            "repo": "awesome-mcp-servers",
+            "stars": 92254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP Reference Servers",
+          "description": "Reference implementations of MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T02:41:59Z",
+            "owner": "modelcontextprotocol",
+            "repo": "servers",
+            "stars": 89541
+          }
+        }
+      ],
+      "title": "Standards"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Spec Kit",
+          "description": "GitHub's toolkit for spec-driven development, helping teams define what to build before letting agents implement it.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:56:12Z",
+            "owner": "github",
+            "repo": "spec-kit",
+            "stars": 127402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BMAD-METHOD",
+          "description": "Universal AI agent framework for agile, agentic-driven planning and execution across software, creative, and business domains.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T17:17:23Z",
+            "owner": "bmad-code-org",
+            "repo": "BMAD-METHOD",
+            "stars": 51868
+          }
+        }
+      ],
+      "title": "Spec-Driven Development"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Dify",
+          "description": "Open-source platform for building LLM apps with agentic workflows, RAG, and observability; useful as the orchestration layer next to coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T20:37:44Z",
+            "owner": "langgenius",
+            "repo": "dify",
+            "stars": 152366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangChain",
+          "description": "The most widely used framework for building LLM-powered applications, including multi-step agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:37:53Z",
+            "owner": "langchain-ai",
+            "repo": "langchain",
+            "stars": 144183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft AutoGen",
+          "description": "Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-15T11:59:09Z",
+            "owner": "microsoft",
+            "repo": "autogen",
+            "stars": 60408
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CrewAI",
+          "description": "Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T21:19:34Z",
+            "owner": "crewAIInc",
+            "repo": "crewAI",
+            "stars": 57050
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LangGraph",
+          "description": "Graph-based orchestration framework for building stateful, controllable multi-agent systems with explicit checkpoints and recovery.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:34:22Z",
+            "owner": "langchain-ai",
+            "repo": "langgraph",
+            "stars": 39636
+          }
+        }
+      ],
+      "title": "Multi-Agent Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Firecrawl",
+          "description": "Open-source web context API for agents; searches, scrapes, crawls, and converts live web content into clean Markdown or structured data, with MCP support for agent workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:37:45Z",
+            "owner": "firecrawl",
+            "repo": "firecrawl",
+            "stars": 166952
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browser Use",
+          "description": "Make any LLM control a real browser; widely used for agentic E2E testing and automating web flows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:28:15Z",
+            "owner": "browser-use",
+            "repo": "browser-use",
+            "stars": 109116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Playwright",
+          "description": "Microsoft's cross-browser automation library; the de-facto substrate for agent-driven browser testing and MCP browser servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:03:51Z",
+            "owner": "microsoft",
+            "repo": "playwright",
+            "stars": 94485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Open Interpreter",
+          "description": "Lets LLMs run code locally with full system access; a foundational pattern for desktop-level coding agents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-08T19:04:44Z",
+            "owner": "openinterpreter",
+            "repo": "openinterpreter",
+            "stars": 68006
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stagehand",
+          "description": "Production-ready AI browser automation framework with natural-language actions on top of Playwright.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T22:51:12Z",
+            "owner": "browserbase",
+            "repo": "stagehand",
+            "stars": 23931
+          }
+        }
+      ],
+      "title": "Browser, Web & Computer Use Agents"
+    },
+    {
+      "description": "Contributions welcome! This list prioritizes practical, team-applicable resources over theoretical ones. When suggesting additions, please include a one-line description of why it is useful specifically to a team adopting agentic engineering.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T23:05:05.085Z",
+    "original_repository": "jordimas/awesome-agentic-engineering",
+    "original_repository_sha": "57f91d1f01e1fdb670f05a29118b4492c1110d44",
+    "enhanced_repository": "enhansome/enhansome-agentic-engineering",
+    "enhanced_repository_description": null,
+    "title": "Awesome Agentic Engineering with stars"
+  }
+}
