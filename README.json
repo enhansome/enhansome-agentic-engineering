@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:07:49Z",
+            "last_commit": "2026-08-18T21:55:10Z",
             "owner": "anomalyco",
             "repo": "opencode",
-            "stars": 198468
+            "stars": 198825
           }
         },
         {
@@ -30,10 +30,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:28:14Z",
+            "last_commit": "2026-08-18T21:59:30Z",
             "owner": "OpenHands",
             "repo": "OpenHands",
-            "stars": 84332
+            "stars": 84421
           }
         },
         {
@@ -44,10 +44,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:39:26Z",
+            "last_commit": "2026-08-18T22:35:07Z",
             "owner": "cline",
             "repo": "cline",
-            "stars": 66356
+            "stars": 66425
           }
         },
         {
@@ -58,10 +58,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T19:04:32Z",
+            "last_commit": "2026-08-18T22:28:37Z",
             "owner": "aaif-goose",
             "repo": "goose",
-            "stars": 52916
+            "stars": 52963
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-05-22T14:02:20Z",
             "owner": "Aider-AI",
             "repo": "aider",
-            "stars": 48283
+            "stars": 48314
           }
         },
         {
@@ -86,10 +86,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T19:22:08Z",
+            "last_commit": "2026-08-18T16:30:27Z",
             "owner": "continuedev",
             "repo": "continue",
-            "stars": 35519
+            "stars": 35532
           }
         },
         {
@@ -117,7 +117,7 @@
             "last_commit": "2025-10-03T21:49:58Z",
             "owner": "plandex-ai",
             "repo": "plandex",
-            "stars": 15590
+            "stars": 15588
           }
         }
       ],
@@ -134,24 +134,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:20:58Z",
+            "last_commit": "2026-08-18T20:38:54Z",
             "owner": "anthropics",
             "repo": "claude-code",
-            "stars": 141774
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gemini CLI",
-          "description": "Google's terminal agent; optimized for Gemini models with tool use and MCP support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-17T22:42:04Z",
-            "owner": "google-gemini",
-            "repo": "gemini-cli",
-            "stars": 106542
+            "stars": 141893
           }
         },
         {
@@ -162,10 +148,24 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T22:39:34Z",
+            "last_commit": "2026-08-18T22:40:10Z",
             "owner": "openai",
             "repo": "codex",
-            "stars": 106485
+            "stars": 106671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gemini CLI",
+          "description": "Google's terminal agent; optimized for Gemini models with tool use and MCP support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-18T21:55:47Z",
+            "owner": "google-gemini",
+            "repo": "gemini-cli",
+            "stars": 106562
           }
         }
       ],
@@ -185,7 +185,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92486
+            "stars": 92534
           }
         },
         {
@@ -196,10 +196,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-10T02:41:59Z",
+            "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89639
+            "stars": 89666
           }
         }
       ],
@@ -216,10 +216,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:25:51Z",
+            "last_commit": "2026-08-18T19:24:18Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 129820
+            "stars": 130131
           }
         },
         {
@@ -230,10 +230,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T21:53:35Z",
+            "last_commit": "2026-08-18T08:34:11Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 51997
+            "stars": 52031
           }
         }
       ],
@@ -250,10 +250,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:41:27Z",
+            "last_commit": "2026-08-18T19:36:55Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 152721
+            "stars": 152839
           }
         },
         {
@@ -264,10 +264,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T21:28:34Z",
+            "last_commit": "2026-08-18T22:40:00Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144414
+            "stars": 144498
           }
         },
         {
@@ -281,7 +281,7 @@
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60472
+            "stars": 60500
           }
         },
         {
@@ -292,10 +292,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T20:20:58Z",
+            "last_commit": "2026-08-18T20:05:54Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57215
+            "stars": 57269
           }
         },
         {
@@ -306,10 +306,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-16T00:22:02Z",
+            "last_commit": "2026-08-18T19:04:29Z",
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 39874
+            "stars": 39952
           }
         }
       ],
@@ -326,10 +326,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:26:26Z",
+            "last_commit": "2026-08-18T15:15:06Z",
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 168609
+            "stars": 169115
           }
         },
         {
@@ -340,10 +340,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-08-17T18:40:31Z",
+            "last_commit": "2026-08-18T17:07:08Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 109524
+            "stars": 109649
           }
         },
         {
@@ -354,10 +354,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T21:47:22Z",
+            "last_commit": "2026-08-18T22:05:03Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94639
+            "stars": 94701
           }
         },
         {
@@ -368,10 +368,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T18:27:04Z",
+            "last_commit": "2026-08-18T20:37:17Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68047
+            "stars": 68059
           }
         },
         {
@@ -382,10 +382,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:35:36Z",
+            "last_commit": "2026-08-18T21:15:30Z",
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 23966
+            "stars": 23978
           }
         }
       ],
@@ -398,7 +398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:43:39.632Z",
+    "last_updated": "2026-08-18T22:43:20.749Z",
     "original_repository": "jordimas/awesome-agentic-engineering",
     "original_repository_sha": "57f91d1f01e1fdb670f05a29118b4492c1110d44",
     "enhanced_repository": "enhansome/enhansome-agentic-engineering",
