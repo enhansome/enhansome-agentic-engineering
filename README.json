@@ -1,178 +1,192 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OpenCode",
+              "description": "CLI coding agent supporting 75+ LLM providers including local models, with MCP integration.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 975734319,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:21:24Z",
+                "owner": "anomalyco",
+                "repo": "opencode",
+                "stars": 199052
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "OpenHands",
+              "description": "Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 771302083,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T12:13:05Z",
+                "owner": "OpenHands",
+                "repo": "OpenHands",
+                "stars": 84466
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cline",
+              "description": "Autonomous coding agent for VS Code that can create/edit files, run commands, and use the browser with human-in-the-loop approval at each step.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 824874689,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T11:32:56Z",
+                "owner": "cline",
+                "repo": "cline",
+                "stars": 66465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Goose",
+              "description": "Block's open-source, on-machine AI agent that automates engineering tasks end-to-end with MCP-based tool extensions.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 846698999,
+                "language": "Rust",
+                "last_commit": "2026-08-19T11:07:09Z",
+                "owner": "aaif-goose",
+                "repo": "goose",
+                "stars": 52985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Aider",
+              "description": "AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 638629097,
+                "language": "Python",
+                "last_commit": "2026-05-22T14:02:20Z",
+                "owner": "Aider-AI",
+                "repo": "aider",
+                "stars": 48324
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Continue",
+              "description": "Open-source IDE extension (VS Code, JetBrains) for building, sharing, and running custom AI code assistants with any model.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 644686905,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T06:27:27Z",
+                "owner": "continuedev",
+                "repo": "continue",
+                "stars": 35537
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Roo Code",
+              "description": "Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 881506708,
+                "language": "TypeScript",
+                "last_commit": "2026-05-15T18:08:47Z",
+                "owner": "RooCodeInc",
+                "repo": "Roo-Code",
+                "stars": 24330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Plandex",
+              "description": "Terminal-based AI coding engine designed for large, multi-file tasks.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 709538270,
+                "language": "Go",
+                "last_commit": "2025-10-03T21:49:58Z",
+                "owner": "plandex-ai",
+                "repo": "plandex",
+                "stars": 15588
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source — Model-Agnostic"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Claude Code",
+              "description": "Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 937253475,
+                "language": "Python",
+                "last_commit": "2026-08-18T20:38:54Z",
+                "owner": "anthropics",
+                "repo": "claude-code",
+                "stars": 141975
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Codex",
+              "description": "OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 965415649,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:06:28Z",
+                "owner": "openai",
+                "repo": "codex",
+                "stars": 106800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Gemini CLI",
+              "description": "Google's terminal agent; optimized for Gemini models with tool use and MCP support.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 968197216,
+                "language": "TypeScript",
+                "last_commit": "2026-08-19T01:07:23Z",
+                "owner": "google-gemini",
+                "repo": "gemini-cli",
+                "stars": 106571
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Commercial Offering"
+        }
+      ],
       "title": "Code-Focused Agent Tools"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OpenCode",
-          "description": "CLI coding agent supporting 75+ LLM providers including local models, with MCP integration.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:55:10Z",
-            "owner": "anomalyco",
-            "repo": "opencode",
-            "stars": 198825
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "OpenHands",
-          "description": "Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:59:30Z",
-            "owner": "OpenHands",
-            "repo": "OpenHands",
-            "stars": 84421
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Cline",
-          "description": "Autonomous coding agent for VS Code that can create/edit files, run commands, and use the browser with human-in-the-loop approval at each step.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T22:35:07Z",
-            "owner": "cline",
-            "repo": "cline",
-            "stars": 66425
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Goose",
-          "description": "Block's open-source, on-machine AI agent that automates engineering tasks end-to-end with MCP-based tool extensions.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T22:28:37Z",
-            "owner": "aaif-goose",
-            "repo": "goose",
-            "stars": 52963
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Aider",
-          "description": "AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-05-22T14:02:20Z",
-            "owner": "Aider-AI",
-            "repo": "aider",
-            "stars": 48314
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Continue",
-          "description": "Open-source IDE extension (VS Code, JetBrains) for building, sharing, and running custom AI code assistants with any model.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T16:30:27Z",
-            "owner": "continuedev",
-            "repo": "continue",
-            "stars": 35532
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Roo Code",
-          "description": "Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "TypeScript",
-            "last_commit": "2026-05-15T18:08:47Z",
-            "owner": "RooCodeInc",
-            "repo": "Roo-Code",
-            "stars": 24331
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Plandex",
-          "description": "Terminal-based AI coding engine designed for large, multi-file tasks.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Go",
-            "last_commit": "2025-10-03T21:49:58Z",
-            "owner": "plandex-ai",
-            "repo": "plandex",
-            "stars": 15588
-          }
-        }
-      ],
-      "title": "Open Source — Model-Agnostic"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Claude Code",
-          "description": "Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T20:38:54Z",
-            "owner": "anthropics",
-            "repo": "claude-code",
-            "stars": 141893
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Codex",
-          "description": "OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T22:40:10Z",
-            "owner": "openai",
-            "repo": "codex",
-            "stars": 106671
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Gemini CLI",
-          "description": "Google's terminal agent; optimized for Gemini models with tool use and MCP support.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "TypeScript",
-            "last_commit": "2026-08-18T21:55:47Z",
-            "owner": "google-gemini",
-            "repo": "gemini-cli",
-            "stars": 106562
-          }
-        }
-      ],
-      "title": "Commercial Offering"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -181,11 +195,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92534
+            "stars": 92564
           }
         },
         {
@@ -195,18 +210,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 890668799,
             "language": "TypeScript",
             "last_commit": "2026-08-18T16:04:56Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89666
+            "stars": 89684
           }
         }
       ],
       "title": "Standards"
     },
     {
-      "description": "",
+      "description": "Frameworks for turning specs and requirements into working software via agents.",
       "items": [
         {
           "node_type": "item",
@@ -215,11 +231,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-18T19:24:18Z",
+            "last_commit": "2026-08-19T12:10:37Z",
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 130131
+            "stars": 130251
           }
         },
         {
@@ -229,18 +246,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T08:34:11Z",
+            "last_commit": "2026-08-19T12:02:37Z",
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52031
+            "stars": 52062
           }
         }
       ],
       "title": "Spec-Driven Development"
     },
     {
-      "description": "",
+      "description": "Building blocks for orchestrating multiple agents with roles, memory, and tool access.",
       "items": [
         {
           "node_type": "item",
@@ -249,11 +267,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T19:36:55Z",
+            "last_commit": "2026-08-19T12:11:41Z",
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 152839
+            "stars": 152894
           }
         },
         {
@@ -263,11 +282,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-18T22:40:00Z",
+            "last_commit": "2026-08-19T10:38:36Z",
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 144498
+            "stars": 144551
           }
         },
         {
@@ -277,11 +297,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 680120071,
             "language": "Python",
             "last_commit": "2026-04-15T11:59:09Z",
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60500
+            "stars": 60511
           }
         },
         {
@@ -291,11 +312,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 710601088,
             "language": "Python",
-            "last_commit": "2026-08-18T20:05:54Z",
+            "last_commit": "2026-08-19T07:20:53Z",
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57269
+            "stars": 57307
           }
         },
         {
@@ -305,18 +327,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 676672661,
             "language": "Python",
-            "last_commit": "2026-08-18T19:04:29Z",
+            "last_commit": "2026-08-19T00:23:46Z",
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 39952
+            "stars": 40008
           }
         }
       ],
       "title": "Multi-Agent Frameworks"
     },
     {
-      "description": "",
+      "description": "Agents that drive browsers, desktops, or the live web; useful for E2E testing, scraping, researching and verifying agent-built software.",
       "items": [
         {
           "node_type": "item",
@@ -325,11 +348,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 787076358,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T15:15:06Z",
+            "last_commit": "2026-08-19T12:05:31Z",
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 169115
+            "stars": 169406
           }
         },
         {
@@ -339,11 +363,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 881458615,
             "language": "Python",
             "last_commit": "2026-08-18T17:07:08Z",
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 109649
+            "stars": 109722
           }
         },
         {
@@ -353,11 +378,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-18T22:05:03Z",
+            "last_commit": "2026-08-19T06:44:48Z",
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 94701
+            "stars": 94729
           }
         },
         {
@@ -367,11 +393,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666299222,
             "language": "Rust",
-            "last_commit": "2026-08-18T20:37:17Z",
+            "last_commit": "2026-08-19T11:41:32Z",
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68059
+            "stars": 68068
           }
         },
         {
@@ -381,25 +408,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 776908852,
             "language": "TypeScript",
             "last_commit": "2026-08-18T21:15:30Z",
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 23978
+            "stars": 23984
           }
         }
       ],
       "title": "Browser, Web & Computer Use Agents"
-    },
-    {
-      "description": "Contributions welcome! This list prioritizes practical, team-applicable resources over theoretical ones. When suggesting additions, please include a one-line description of why it is useful specifically to a team adopting agentic engineering.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T22:43:20.749Z",
+    "last_updated": "2026-08-19T12:16:05.263Z",
     "original_repository": "jordimas/awesome-agentic-engineering",
+    "original_repository_id": 1163188788,
     "original_repository_sha": "57f91d1f01e1fdb670f05a29118b4492c1110d44",
     "enhanced_repository": "enhansome/enhansome-agentic-engineering",
     "enhanced_repository_description": null,
