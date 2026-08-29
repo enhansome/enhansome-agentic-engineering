@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The open source coding agent.",
+                "homepage": "https://opencode.ai",
                 "id": 975734319,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:01:36Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T03:43:54Z",
+                "open_issues": 5580,
                 "owner": "anomalyco",
                 "repo": "opencode",
-                "stars": 202008
+                "stars": 202230,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -28,12 +33,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🙌 OpenHands: AI-Driven Development",
+                "homepage": "https://openhands.dev",
                 "id": 771302083,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T03:55:31Z",
+                "license": "MIT",
+                "last_commit": "2026-08-28T23:27:42Z",
+                "open_issues": 604,
                 "owner": "OpenHands",
                 "repo": "OpenHands",
-                "stars": 85356
+                "stars": 85480,
+                "topics": [
+                  "agent",
+                  "artificial-intelligence",
+                  "chatgpt",
+                  "claude-ai",
+                  "cli",
+                  "developer-tools",
+                  "gpt",
+                  "llm",
+                  "openai"
+                ]
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -44,12 +64,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+                "homepage": "https://cline.bot",
                 "id": 824874689,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T06:08:52Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T02:44:17Z",
+                "open_issues": 1138,
                 "owner": "cline",
                 "repo": "cline",
-                "stars": 67036
+                "stars": 67091,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -60,12 +85,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM",
+                "homepage": "https://goose-docs.ai/",
                 "id": 846698999,
                 "language": "Rust",
-                "last_commit": "2026-08-28T05:19:17Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T20:20:42Z",
+                "open_issues": 223,
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 53590
+                "stars": 53629,
+                "topics": [
+                  "acp",
+                  "ai",
+                  "ai-agents",
+                  "mcp"
+                ]
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -76,12 +111,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "aider is AI pair programming in your terminal",
+                "homepage": "https://aider.chat/",
                 "id": 638629097,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-22T14:02:20Z",
+                "open_issues": 1833,
                 "owner": "Aider-AI",
                 "repo": "aider",
-                "stars": 48540
+                "stars": 48561,
+                "topics": [
+                  "anthropic",
+                  "chatgpt",
+                  "claude-3",
+                  "cli",
+                  "command-line",
+                  "gemini",
+                  "gpt-3",
+                  "gpt-35-turbo",
+                  "gpt-4",
+                  "gpt-4o",
+                  "llama",
+                  "openai",
+                  "sonnet"
+                ]
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -92,12 +146,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "open-source coding agent",
+                "homepage": "https://continue.dev",
                 "id": 644686905,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T13:11:02Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-28T10:05:03Z",
+                "open_issues": 944,
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 35654
+                "stars": 35667,
+                "topics": [
+                  "agent",
+                  "ai",
+                  "cli",
+                  "developer-tools",
+                  "open-source"
+                ]
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -108,12 +173,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Roo Code gives you a whole dev team of AI agents in your code editor.",
+                "homepage": "https://roocode.com",
                 "id": 881506708,
                 "language": "TypeScript",
+                "license": "Apache-2.0",
                 "last_commit": "2026-05-15T18:08:47Z",
+                "open_issues": 1035,
                 "owner": "RooCodeInc",
                 "repo": "Roo-Code",
-                "stars": 24323
+                "stars": 24322,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -124,12 +194,34 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source AI coding agent. Designed for large projects and real world tasks.",
+                "homepage": "https://plandex.ai",
                 "id": 709538270,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2025-10-03T21:49:58Z",
+                "open_issues": 62,
                 "owner": "plandex-ai",
                 "repo": "plandex",
-                "stars": 15599
+                "stars": 15597,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "ai-developer-tools",
+                  "ai-tools",
+                  "cli",
+                  "command-line",
+                  "developer-tools",
+                  "git",
+                  "golang",
+                  "gpt-4",
+                  "llm",
+                  "openai",
+                  "polyglot-programming",
+                  "terminal",
+                  "terminal-based",
+                  "terminal-ui"
+                ]
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             }
@@ -147,12 +239,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+                "homepage": "https://code.claude.com/docs/en/overview",
                 "id": 937253475,
                 "language": "Python",
-                "last_commit": "2026-08-28T00:49:15Z",
+                "license": null,
+                "last_commit": "2026-08-28T18:19:32Z",
+                "open_issues": 15346,
                 "owner": "anthropics",
                 "repo": "claude-code",
-                "stars": 143224
+                "stars": 143318,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -163,12 +260,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Lightweight coding agent that runs in your terminal",
+                "homepage": null,
                 "id": 965415649,
                 "language": "Rust",
-                "last_commit": "2026-08-28T04:47:44Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T03:44:03Z",
+                "open_issues": 14296,
                 "owner": "openai",
                 "repo": "codex",
-                "stars": 119306
+                "stars": 119601,
+                "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             },
@@ -179,12 +281,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+                "homepage": "https://geminicli.com",
                 "id": 968197216,
                 "language": "TypeScript",
-                "last_commit": "2026-08-28T03:53:11Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:56:42Z",
+                "open_issues": 867,
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 106723
+                "stars": 106736,
+                "topics": [
+                  "ai",
+                  "ai-agents",
+                  "cli",
+                  "gemini",
+                  "gemini-api",
+                  "mcp-client",
+                  "mcp-server"
+                ]
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
             }
@@ -206,12 +321,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of MCP servers.",
+            "homepage": "https://glama.ai/mcp/servers",
             "id": 896335270,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-08-27T21:09:23Z",
+            "open_issues": 3710,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92906
+            "stars": 93007,
+            "topics": [
+              "ai",
+              "mcp"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -222,12 +345,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Model Context Protocol Servers",
+            "homepage": "https://modelcontextprotocol.io",
             "id": 890668799,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:36:45Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T17:58:20Z",
+            "open_issues": 506,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89919
+            "stars": 89940,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         }
@@ -244,12 +372,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💫 Toolkit to help you get started with Spec-Driven Development",
+            "homepage": "https://github.github.com/spec-kit/",
             "id": 1042367133,
             "language": "Python",
-            "last_commit": "2026-08-28T01:42:30Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:42:14Z",
+            "open_issues": 333,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 131925
+            "stars": 132066,
+            "topics": [
+              "ai",
+              "copilot",
+              "development",
+              "engineering",
+              "prd",
+              "spec",
+              "spec-driven"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -260,12 +401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Breakthrough Method for Agile Ai Driven Development",
+            "homepage": null,
             "id": 965615190,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T05:48:16Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:42:36Z",
+            "open_issues": 126,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 52402
+            "stars": 52426,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         }
@@ -282,12 +428,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+            "homepage": "https://dify.ai",
             "id": 626805178,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T06:08:28Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:08:08Z",
+            "open_issues": 977,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 153715
+            "stars": 153785,
+            "topics": [
+              "agent",
+              "agentic-ai",
+              "agentic-framework",
+              "agentic-workflow",
+              "ai",
+              "automation",
+              "claude",
+              "deepseek",
+              "genai",
+              "gpt",
+              "llm",
+              "low-code",
+              "mcp",
+              "nextjs",
+              "no-code",
+              "openai",
+              "python",
+              "skills",
+              "workflow"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -298,12 +469,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The agent engineering platform.",
+            "homepage": "https://docs.langchain.com/langchain/",
             "id": 552661142,
             "language": "Python",
-            "last_commit": "2026-08-28T02:45:33Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:20:17Z",
+            "open_issues": 431,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 145162
+            "stars": 145214,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "anthropic",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -314,12 +511,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A programming framework for agentic AI",
+            "homepage": "https://microsoft.github.io/autogen/",
             "id": 680120071,
             "language": "Python",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-04-15T11:59:09Z",
+            "open_issues": 992,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 60661
+            "stars": 60679,
+            "topics": [
+              "agentic",
+              "agentic-agi",
+              "agents",
+              "ai",
+              "autogen",
+              "autogen-ecosystem",
+              "chatgpt",
+              "framework",
+              "llm-agent",
+              "llm-framework"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -330,12 +543,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+            "homepage": "https://crewai.com",
             "id": 710601088,
             "language": "Python",
-            "last_commit": "2026-08-28T05:49:53Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T22:36:31Z",
+            "open_issues": 767,
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 57698
+            "stars": 57766,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "aiagentframework",
+              "llms"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -346,12 +570,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build resilient agents.",
+            "homepage": "https://docs.langchain.com/oss/python/langgraph/",
             "id": 676672661,
             "language": "Python",
-            "last_commit": "2026-08-28T01:15:28Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T16:36:39Z",
+            "open_issues": 722,
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 40577
+            "stars": 40642,
+            "topics": [
+              "agents",
+              "ai",
+              "ai-agents",
+              "chatgpt",
+              "deepagents",
+              "enterprise",
+              "framework",
+              "gemini",
+              "generative-ai",
+              "langchain",
+              "langgraph",
+              "llm",
+              "multiagent",
+              "open-source",
+              "openai",
+              "pydantic",
+              "python",
+              "rag"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         }
@@ -368,12 +616,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
+            "homepage": "https://firecrawl.dev",
             "id": 787076358,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T03:22:56Z",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T00:10:04Z",
+            "open_issues": 559,
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 173322
+            "stars": 173689,
+            "topics": [
+              "ai",
+              "ai-agents",
+              "ai-crawler",
+              "ai-scraping",
+              "ai-search",
+              "crawler",
+              "data-extraction",
+              "html-to-markdown",
+              "llm",
+              "markdown",
+              "scraper",
+              "scraping",
+              "web-crawler",
+              "web-data",
+              "web-data-extraction",
+              "web-scraper",
+              "web-scraping",
+              "web-search",
+              "webscraping"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -384,12 +657,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
+            "homepage": "https://browser-use.com",
             "id": 881458615,
             "language": "Python",
-            "last_commit": "2026-08-28T03:42:29Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:08:30Z",
+            "open_issues": 386,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 111505
+            "stars": 111591,
+            "topics": [
+              "ai-agents",
+              "ai-tools",
+              "browser-automation",
+              "browser-use",
+              "llm",
+              "playwright",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -400,12 +686,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. ",
+            "homepage": "https://playwright.dev",
             "id": 221981891,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T00:19:16Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T01:43:34Z",
+            "open_issues": 167,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 95274
+            "stars": 95316,
+            "topics": [
+              "automation",
+              "chrome",
+              "chromium",
+              "e2e-testing",
+              "electron",
+              "end-to-end-testing",
+              "firefox",
+              "javascript",
+              "playwright",
+              "test",
+              "test-automation",
+              "testing",
+              "testing-tools",
+              "web",
+              "webkit"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -416,12 +723,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A coding agent for open models like Kimi K3",
+            "homepage": "http://openinterpreter.com/",
             "id": 666299222,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T03:35:38Z",
+            "open_issues": 8,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68173
+            "stars": 68176,
+            "topics": [
+              "acp",
+              "coding-agent",
+              "deepseek",
+              "kimi",
+              "qwen",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         },
@@ -432,12 +751,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The SDK For Browser Agents",
+            "homepage": "https://stagehand.dev",
             "id": 776908852,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:52:14Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T03:03:37Z",
+            "open_issues": 342,
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 24088
+            "stars": 24092,
+            "topics": [
+              "agents",
+              "ai",
+              "llms",
+              "playwright",
+              "puppeteer",
+              "selenium"
+            ]
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
         }
@@ -446,15 +777,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:09:06.044Z",
+    "last_updated": "2026-08-29T03:44:10.229Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of practical resources for Agentic Engineering",
+      "homepage": null,
       "id": 1163188788,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-06-27T09:24:34Z",
+      "open_issues": 6,
       "owner": "jordimas",
       "repo": "awesome-agentic-engineering",
-      "stars": 103
+      "stars": 103,
+      "topics": [
+        "agentic-engineering",
+        "ai-coding",
+        "awesome",
+        "awesome-list",
+        "developer-tools",
+        "llm"
+      ]
     },
     "original_repository_sha": "57f91d1f01e1fdb670f05a29118b4492c1110d44",
     "enhanced_repository": "enhansome/enhansome-agentic-engineering",
