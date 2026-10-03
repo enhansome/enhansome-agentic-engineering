@@ -17,11 +17,11 @@
                 "id": 975734319,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-03T00:38:44Z",
-                "open_issues": 6216,
+                "last_commit": "2026-10-03T04:20:12Z",
+                "open_issues": 6192,
                 "owner": "anomalyco",
                 "repo": "opencode",
-                "stars": 211506,
+                "stars": 211521,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
@@ -42,7 +42,7 @@
                 "open_issues": 866,
                 "owner": "OpenHands",
                 "repo": "OpenHands",
-                "stars": 89826,
+                "stars": 89830,
                 "topics": [
                   "agent",
                   "artificial-intelligence",
@@ -69,11 +69,11 @@
                 "id": 824874689,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T01:08:36Z",
-                "open_issues": 1576,
+                "last_commit": "2026-10-03T03:04:24Z",
+                "open_issues": 1580,
                 "owner": "cline",
                 "repo": "cline",
-                "stars": 69737,
+                "stars": 69743,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
@@ -94,7 +94,7 @@
                 "open_issues": 417,
                 "owner": "aaif-goose",
                 "repo": "goose",
-                "stars": 54878,
+                "stars": 54882,
                 "topics": [
                   "acp",
                   "ai",
@@ -120,7 +120,7 @@
                 "open_issues": 1908,
                 "owner": "Aider-AI",
                 "repo": "aider",
-                "stars": 49340,
+                "stars": 49341,
                 "topics": [
                   "anthropic",
                   "chatgpt",
@@ -152,10 +152,10 @@
                 "language": "TypeScript",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T10:41:02Z",
-                "open_issues": 834,
+                "open_issues": 824,
                 "owner": "continuedev",
                 "repo": "continue",
-                "stars": 36088,
+                "stars": 36090,
                 "topics": [
                   "agent",
                   "ai",
@@ -182,7 +182,7 @@
                 "open_issues": 1033,
                 "owner": "RooCodeInc",
                 "repo": "Roo-Code",
-                "stars": 24289,
+                "stars": 24288,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
@@ -244,11 +244,11 @@
                 "id": 937253475,
                 "language": "TypeScript",
                 "license": null,
-                "last_commit": "2026-10-02T20:19:56Z",
-                "open_issues": 14058,
+                "last_commit": "2026-10-03T04:16:58Z",
+                "open_issues": 14084,
                 "owner": "anthropics",
                 "repo": "claude-code",
-                "stars": 148980,
+                "stars": 148997,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
@@ -265,11 +265,11 @@
                 "id": 965415649,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-03T01:09:40Z",
-                "open_issues": 20250,
+                "last_commit": "2026-10-03T03:31:46Z",
+                "open_issues": 20263,
                 "owner": "openai",
                 "repo": "codex",
-                "stars": 127640,
+                "stars": 127654,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:09:06.044Z"
@@ -286,11 +286,11 @@
                 "id": 968197216,
                 "language": "TypeScript",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-02T06:42:04Z",
-                "open_issues": 799,
+                "last_commit": "2026-10-03T01:29:14Z",
+                "open_issues": 788,
                 "owner": "google-gemini",
                 "repo": "gemini-cli",
-                "stars": 107214,
+                "stars": 107218,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -327,10 +327,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-09-27T02:12:17Z",
-            "open_issues": 2794,
+            "open_issues": 2796,
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 95767,
+            "stars": 95766,
             "topics": [
               "ai",
               "mcp"
@@ -354,7 +354,7 @@
             "open_issues": 551,
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 90960,
+            "stars": 90961,
             "topics": []
           },
           "first_seen": "2026-08-28T06:09:06.044Z"
@@ -381,7 +381,7 @@
             "open_issues": 268,
             "owner": "github",
             "repo": "spec-kit",
-            "stars": 139858,
+            "stars": 139873,
             "topics": [
               "ai",
               "copilot",
@@ -406,11 +406,11 @@
             "id": 965615190,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T11:25:54Z",
-            "open_issues": 51,
+            "last_commit": "2026-10-03T03:59:07Z",
+            "open_issues": 52,
             "owner": "bmad-code-org",
             "repo": "BMAD-METHOD",
-            "stars": 53742,
+            "stars": 53744,
             "topics": [
               "agile",
               "ai",
@@ -439,11 +439,11 @@
             "id": 626805178,
             "language": "TypeScript",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T01:13:14Z",
-            "open_issues": 977,
+            "last_commit": "2026-10-03T03:58:39Z",
+            "open_issues": 974,
             "owner": "langgenius",
             "repo": "dify",
-            "stars": 157731,
+            "stars": 157735,
             "topics": [
               "agent",
               "agentic-ai",
@@ -484,7 +484,7 @@
             "open_issues": 606,
             "owner": "langchain-ai",
             "repo": "langchain",
-            "stars": 147389,
+            "stars": 147391,
             "topics": [
               "agents",
               "ai",
@@ -526,7 +526,7 @@
             "open_issues": 1109,
             "owner": "microsoft",
             "repo": "autogen",
-            "stars": 61248,
+            "stars": 61249,
             "topics": [
               "agentic",
               "agentic-agi",
@@ -558,7 +558,7 @@
             "open_issues": 522,
             "owner": "crewAIInc",
             "repo": "crewAI",
-            "stars": 59291,
+            "stars": 59293,
             "topics": [
               "agents",
               "ai",
@@ -581,11 +581,11 @@
             "id": 676672661,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-10-02T21:14:50Z",
-            "open_issues": 815,
+            "last_commit": "2026-10-03T02:08:21Z",
+            "open_issues": 817,
             "owner": "langchain-ai",
             "repo": "langgraph",
-            "stars": 42633,
+            "stars": 42641,
             "topics": [
               "agents",
               "ai",
@@ -627,11 +627,11 @@
             "id": 787076358,
             "language": "TypeScript",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-03T00:12:18Z",
-            "open_issues": 511,
+            "last_commit": "2026-10-03T04:00:16Z",
+            "open_issues": 513,
             "owner": "firecrawl",
             "repo": "firecrawl",
-            "stars": 187954,
+            "stars": 188001,
             "topics": [
               "ai",
               "ai-agents",
@@ -669,10 +669,10 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-10-03T00:06:08Z",
-            "open_issues": 533,
+            "open_issues": 531,
             "owner": "browser-use",
             "repo": "browser-use",
-            "stars": 117012,
+            "stars": 117018,
             "topics": [
               "ai-agents",
               "ai-tools",
@@ -698,10 +698,10 @@
             "language": "TypeScript",
             "license": "Apache-2.0",
             "last_commit": "2026-10-03T00:21:53Z",
-            "open_issues": 204,
+            "open_issues": 205,
             "owner": "microsoft",
             "repo": "playwright",
-            "stars": 97017,
+            "stars": 97021,
             "topics": [
               "automation",
               "chrome",
@@ -738,7 +738,7 @@
             "open_issues": 11,
             "owner": "openinterpreter",
             "repo": "openinterpreter",
-            "stars": 68492,
+            "stars": 68494,
             "topics": [
               "acp",
               "coding-agent",
@@ -767,7 +767,7 @@
             "open_issues": 377,
             "owner": "browserbase",
             "repo": "stagehand",
-            "stars": 25518,
+            "stars": 25520,
             "topics": [
               "agents",
               "ai",
@@ -792,7 +792,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:13:20.314Z",
+    "last_updated": "2026-10-03T04:22:30.943Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of practical resources for Agentic Engineering",
