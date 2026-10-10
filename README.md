@@ -26,7 +26,7 @@
 * [OpenAI Codex Quickstart](https://developers.openai.com/codex/quickstart) - OpenAI's coding agent: setup, API integration, and first code generation requests.
 * [Anthropic — Claude Code Best Practices](https://www.anthropic.com/engineering/claude-code-best-practices) - Prompting, tooling, and team-level workflows for Claude Code.
 * [OpenAI — A Practical Guide to Building Agents (PDF)](https://cdn.openai.com/business-guides-and-resources/a-practical-guide-to-building-agents.pdf) - When to build an agent, design foundations, guardrails, and rollout.
-* [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) ⭐ 26,623 | 🐛 27 | 🌐 TypeScript | 📅 2025-09-21 - Principles for building reliable, production-grade LLM agents. ![Stars](https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat\&logo=github\&label=)
+* [12-Factor Agents](https://github.com/humanlayer/12-factor-agents) ⭐ 26,627 | 🐛 27 | 🌐 TypeScript | 📅 2025-09-21 - Principles for building reliable, production-grade LLM agents. ![Stars](https://img.shields.io/github/stars/humanlayer/12-factor-agents?style=flat\&logo=github\&label=)
 
 ***
 
@@ -34,20 +34,20 @@
 
 ### Open Source — Model-Agnostic
 
-* [OpenCode](https://github.com/sst/opencode) ⭐ 212,213 | 🐛 6,213 | 🌐 TypeScript | 📅 2026-10-09 - CLI coding agent supporting 75+ LLM providers including local models, with MCP integration. ![Stars](https://img.shields.io/github/stars/sst/opencode?style=flat\&logo=github\&label=)
-* [OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 90,309 | 🐛 964 | 🌐 TypeScript | 📅 2026-10-09 - Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access. ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat\&logo=github\&label=)
-* [Cline](https://github.com/cline/cline) ⭐ 70,038 | 🐛 1,633 | 🌐 TypeScript | 📅 2026-10-09 - Autonomous coding agent for VS Code that can create/edit files, run commands, and use the browser with human-in-the-loop approval at each step. ![Stars](https://img.shields.io/github/stars/cline/cline?style=flat\&logo=github\&label=)
-* [Goose](https://github.com/block/goose) ⭐ 55,096 | 🐛 480 | 🌐 Rust | 📅 2026-10-09 - Block's open-source, on-machine AI agent that automates engineering tasks end-to-end with MCP-based tool extensions. ![Stars](https://img.shields.io/github/stars/block/goose?style=flat\&logo=github\&label=)
-* [Aider](https://github.com/paul-gauthier/aider) ⭐ 49,426 | 🐛 1,908 | 🌐 Python | 📅 2026-05-22 - AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning. ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat\&logo=github\&label=)
-* [Continue](https://github.com/continuedev/continue) ⭐ 36,162 | 🐛 827 | 🌐 TypeScript | 📅 2026-10-08 - Open-source IDE extension (VS Code, JetBrains) for building, sharing, and running custom AI code assistants with any model. ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat\&logo=github\&label=)
+* [OpenCode](https://github.com/sst/opencode) ⭐ 212,400 | 🐛 6,160 | 🌐 TypeScript | 📅 2026-10-10 - CLI coding agent supporting 75+ LLM providers including local models, with MCP integration. ![Stars](https://img.shields.io/github/stars/sst/opencode?style=flat\&logo=github\&label=)
+* [OpenHands](https://github.com/All-Hands-AI/OpenHands) ⭐ 90,416 | 🐛 975 | 🌐 TypeScript | 📅 2026-10-10 - Open-source Devin alternative; full software engineering agent with browser, terminal, and editor access. ![Stars](https://img.shields.io/github/stars/All-Hands-AI/OpenHands?style=flat\&logo=github\&label=)
+* [Cline](https://github.com/cline/cline) ⭐ 70,084 | 🐛 1,648 | 🌐 TypeScript | 📅 2026-10-10 - Autonomous coding agent for VS Code that can create/edit files, run commands, and use the browser with human-in-the-loop approval at each step. ![Stars](https://img.shields.io/github/stars/cline/cline?style=flat\&logo=github\&label=)
+* [Goose](https://github.com/block/goose) ⭐ 55,110 | 🐛 483 | 🌐 Rust | 📅 2026-10-09 - Block's open-source, on-machine AI agent that automates engineering tasks end-to-end with MCP-based tool extensions. ![Stars](https://img.shields.io/github/stars/block/goose?style=flat\&logo=github\&label=)
+* [Aider](https://github.com/paul-gauthier/aider) ⭐ 49,437 | 🐛 1,908 | 🌐 Python | 📅 2026-05-22 - AI pair programming in your terminal; supports complex multi-file refactors via agent-style planning. ![Stars](https://img.shields.io/github/stars/paul-gauthier/aider?style=flat\&logo=github\&label=)
+* [Continue](https://github.com/continuedev/continue) ⭐ 36,161 | 🐛 834 | 🌐 TypeScript | 📅 2026-10-09 - Open-source IDE extension (VS Code, JetBrains) for building, sharing, and running custom AI code assistants with any model. ![Stars](https://img.shields.io/github/stars/continuedev/continue?style=flat\&logo=github\&label=)
 * [Roo Code](https://github.com/RooCodeInc/Roo-Code) ⚠️ Archived - Autonomous AI coding agent for your editor; supports custom modes, multi-model providers, and orchestration of subtasks. ![Stars](https://img.shields.io/github/stars/RooCodeInc/Roo-Code?style=flat\&logo=github\&label=)
-* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,702 | 🐛 66 | 🌐 Go | 📅 2025-10-03 - Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat\&logo=github\&label=)
+* [Plandex](https://github.com/plandex-ai/plandex) ⭐ 15,704 | 🐛 66 | 🌐 Go | 📅 2025-10-03 - Terminal-based AI coding engine designed for large, multi-file tasks. ![Stars](https://img.shields.io/github/stars/plandex-ai/plandex?style=flat\&logo=github\&label=)
 
 ### Commercial Offering
 
-* [Claude Code](https://github.com/anthropics/claude-code) ⭐ 149,731 | 🐛 14,592 | 🌐 TypeScript | 📅 2026-10-08 - Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models. ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat\&logo=github\&label=)
-* [Codex](https://github.com/openai/codex) ⭐ 128,224 | 🐛 21,616 | 🌐 Rust | 📅 2026-10-09 - OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models. ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat\&logo=github\&label=)
-* [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 107,258 | 🐛 756 | 🌐 TypeScript | 📅 2026-10-08 - Google's terminal agent; optimized for Gemini models with tool use and MCP support. ![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat\&logo=github\&label=)
+* [Claude Code](https://github.com/anthropics/claude-code) ⭐ 149,882 | 🐛 14,638 | 🌐 TypeScript | 📅 2026-10-09 - Anthropic's agentic CLI that operates directly on your local codebase; optimized for Claude models. ![Stars](https://img.shields.io/github/stars/anthropics/claude-code?style=flat\&logo=github\&label=)
+* [Codex](https://github.com/openai/codex) ⭐ 128,398 | 🐛 21,909 | 🌐 Rust | 📅 2026-10-10 - OpenAI's lightweight coding agent that runs in your terminal; optimized for OpenAI models. ![Stars](https://img.shields.io/github/stars/openai/codex?style=flat\&logo=github\&label=)
+* [Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 107,265 | 🐛 760 | 🌐 TypeScript | 📅 2026-10-10 - Google's terminal agent; optimized for Gemini models with tool use and MCP support. ![Stars](https://img.shields.io/github/stars/google-gemini/gemini-cli?style=flat\&logo=github\&label=)
 * [Cursor](https://www.cursor.com/) - IDE built for agentic coding workflows; inline agent with codebase-wide context and multi-model support.
 
 ***
@@ -66,13 +66,13 @@
 * [My LLM Coding Workflow Going into 2026 — Addy Osmani](https://medium.com/@addyosmani/my-llm-coding-workflow-going-into-2026-52fe1681325e) - Specs-first planning, small iterations, and strong context and model selection in AI-assisted engineering.
 * [How Claude Code is Built](https://newsletter.pragmaticengineer.com/p/how-claude-code-is-built) - Claude Code's origins, architecture, and signals for AI-assisted software development.
 * [Building an AI-Native Engineering Team](https://developers.openai.com/codex/guides/build-ai-native-engineering-team/) - Structuring and scaling engineering teams around AI-first workflows with Codex.
-* [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 275,423 | 🐛 263 | 🌐 JavaScript | 📅 2026-10-05 - Resources, tips, prompts, and examples for Claude Code.
+* [everything-claude-code](https://github.com/affaan-m/everything-claude-code) ⭐ 276,003 | 🐛 225 | 🌐 JavaScript | 📅 2026-10-10 - Resources, tips, prompts, and examples for Claude Code.
 * [Anthropic — Building Effective Agents](https://www.anthropic.com/engineering/building-effective-agents) - Workflow and agent patterns for production agentic systems.
 
 ## Standards
 
-* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 95,940 | 🐛 2,714 | 📅 2026-10-08 - Catalog of MCP server implementations for databases, APIs, browsers, and more. ![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat\&logo=github\&label=)
-* [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,083 | 🐛 495 | 🌐 TypeScript | 📅 2026-10-07 - Reference implementations of MCP servers. ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat\&logo=github\&label=)
+* [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 96,002 | 🐛 2,572 | 📅 2026-10-09 - Catalog of MCP server implementations for databases, APIs, browsers, and more. ![Stars](https://img.shields.io/github/stars/punkpeye/awesome-mcp-servers?style=flat\&logo=github\&label=)
+* [MCP Reference Servers](https://github.com/modelcontextprotocol/servers) ⭐ 91,097 | 🐛 496 | 🌐 TypeScript | 📅 2026-10-07 - Reference implementations of MCP servers. ![Stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=flat\&logo=github\&label=)
 * [agents.md](https://agents.md/) - An open standard for guiding AI coding agents, giving them project-specific build, test, and code style instructions.
 * [MCP — Model Context Protocol](https://modelcontextprotocol.io/) - An open standard for connecting AI models to external tools, data sources, and services.
 
@@ -80,28 +80,28 @@
 
 > Frameworks for turning specs and requirements into working software via agents.
 
-* [Spec Kit](https://github.com/github/spec-kit) ⭐ 140,492 | 🐛 255 | 🌐 Python | 📅 2026-10-08 - GitHub's toolkit for spec-driven development, helping teams define what to build before letting agents implement it. ![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat\&logo=github\&label=)
-* [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 53,957 | 🐛 69 | 🌐 Python | 📅 2026-10-07 - Universal AI agent framework for agile, agentic-driven planning and execution across software, creative, and business domains. ![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat\&logo=github\&label=)
+* [Spec Kit](https://github.com/github/spec-kit) ⭐ 140,609 | 🐛 245 | 🌐 Python | 📅 2026-10-10 - GitHub's toolkit for spec-driven development, helping teams define what to build before letting agents implement it. ![Stars](https://img.shields.io/github/stars/github/spec-kit?style=flat\&logo=github\&label=)
+* [BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) ⭐ 53,991 | 🐛 69 | 🌐 Python | 📅 2026-10-07 - Universal AI agent framework for agile, agentic-driven planning and execution across software, creative, and business domains. ![Stars](https://img.shields.io/github/stars/bmad-code-org/BMAD-METHOD?style=flat\&logo=github\&label=)
 
 ## Multi-Agent Frameworks
 
 > Building blocks for orchestrating multiple agents with roles, memory, and tool access.
 
-* [Dify](https://github.com/langgenius/dify) ⭐ 157,935 | 🐛 1,117 | 🌐 TypeScript | 📅 2026-10-09 - Open-source platform for building LLM apps with agentic workflows, RAG, and observability; useful as the orchestration layer next to coding agents. ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat\&logo=github\&label=)
-* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 147,401 | 🐛 633 | 🌐 Python | 📅 2026-10-08 - The most widely used framework for building LLM-powered applications, including multi-step agent workflows. ![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat\&logo=github\&label=)
-* [Microsoft AutoGen](https://github.com/microsoft/autogen) ⭐ 61,312 | 🐛 1,100 | 🌐 Python | 📅 2026-04-15 - Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks. ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat\&logo=github\&label=)
-* [CrewAI](https://github.com/crewAIInc/crewAI) ⭐ 59,477 | 🐛 573 | 🌐 Python | 📅 2026-10-08 - Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew. ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat\&logo=github\&label=)
-* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 42,917 | 🐛 795 | 🌐 Python | 📅 2026-10-08 - Graph-based orchestration framework for building stateful, controllable multi-agent systems with explicit checkpoints and recovery. ![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat\&logo=github\&label=)
+* [Dify](https://github.com/langgenius/dify) ⭐ 158,020 | 🐛 1,115 | 🌐 TypeScript | 📅 2026-10-10 - Open-source platform for building LLM apps with agentic workflows, RAG, and observability; useful as the orchestration layer next to coding agents. ![Stars](https://img.shields.io/github/stars/langgenius/dify?style=flat\&logo=github\&label=)
+* [LangChain](https://github.com/langchain-ai/langchain) ⭐ 147,514 | 🐛 641 | 🌐 Python | 📅 2026-10-09 - The most widely used framework for building LLM-powered applications, including multi-step agent workflows. ![Stars](https://img.shields.io/github/stars/langchain-ai/langchain?style=flat\&logo=github\&label=)
+* [Microsoft AutoGen](https://github.com/microsoft/autogen) ⭐ 61,330 | 🐛 1,102 | 🌐 Python | 📅 2026-04-15 - Programming framework for building multi-agent AI systems with conversable agents that collaborate to solve tasks. ![Stars](https://img.shields.io/github/stars/microsoft/autogen?style=flat\&logo=github\&label=)
+* [CrewAI](https://github.com/crewAIInc/crewAI) ⭐ 59,510 | 🐛 605 | 🌐 Python | 📅 2026-10-09 - Lean Python framework for orchestrating role-playing, autonomous AI agents that work together as a crew. ![Stars](https://img.shields.io/github/stars/crewAIInc/crewAI?style=flat\&logo=github\&label=)
+* [LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 42,977 | 🐛 800 | 🌐 Python | 📅 2026-10-10 - Graph-based orchestration framework for building stateful, controllable multi-agent systems with explicit checkpoints and recovery. ![Stars](https://img.shields.io/github/stars/langchain-ai/langgraph?style=flat\&logo=github\&label=)
 
 ## Browser, Web & Computer Use Agents
 
 > Agents that drive browsers, desktops, or the live web; useful for E2E testing, scraping, researching and verifying agent-built software.
 
-* [Firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 189,642 | 🐛 535 | 🌐 TypeScript | 📅 2026-10-09 - Open-source web context API for agents; searches, scrapes, crawls, and converts live web content into clean Markdown or structured data, with MCP support for agent workflows. ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat\&logo=github\&label=)
-* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 117,325 | 🐛 534 | 🌐 Python | 📅 2026-10-07 - Make any LLM control a real browser; widely used for agentic E2E testing and automating web flows. ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat\&logo=github\&label=)
-* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,324 | 🐛 167 | 🌐 TypeScript | 📅 2026-10-09 - Microsoft's cross-browser automation library; the de-facto substrate for agent-driven browser testing and MCP browser servers. ![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat\&logo=github\&label=)
-* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,533 | 🐛 11 | 🌐 Rust | 📅 2026-10-07 - Lets LLMs run code locally with full system access; a foundational pattern for desktop-level coding agents. ![Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat\&logo=github\&label=)
-* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,582 | 🐛 390 | 🌐 TypeScript | 📅 2026-10-08 - Production-ready AI browser automation framework with natural-language actions on top of Playwright. ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat\&logo=github\&label=)
+* [Firecrawl](https://github.com/firecrawl/firecrawl) ⭐ 189,946 | 🐛 538 | 🌐 TypeScript | 📅 2026-10-10 - Open-source web context API for agents; searches, scrapes, crawls, and converts live web content into clean Markdown or structured data, with MCP support for agent workflows. ![Stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=flat\&logo=github\&label=)
+* [Browser Use](https://github.com/browser-use/browser-use) ⭐ 117,435 | 🐛 521 | 🌐 Python | 📅 2026-10-09 - Make any LLM control a real browser; widely used for agentic E2E testing and automating web flows. ![Stars](https://img.shields.io/github/stars/browser-use/browser-use?style=flat\&logo=github\&label=)
+* [Playwright](https://github.com/microsoft/playwright) ⭐ 97,387 | 🐛 175 | 🌐 TypeScript | 📅 2026-10-09 - Microsoft's cross-browser automation library; the de-facto substrate for agent-driven browser testing and MCP browser servers. ![Stars](https://img.shields.io/github/stars/microsoft/playwright?style=flat\&logo=github\&label=)
+* [Open Interpreter](https://github.com/OpenInterpreter/open-interpreter) ⭐ 68,535 | 🐛 12 | 🌐 Rust | 📅 2026-10-07 - Lets LLMs run code locally with full system access; a foundational pattern for desktop-level coding agents. ![Stars](https://img.shields.io/github/stars/OpenInterpreter/open-interpreter?style=flat\&logo=github\&label=)
+* [Stagehand](https://github.com/browserbase/stagehand) ⭐ 25,595 | 🐛 395 | 🌐 TypeScript | 📅 2026-10-10 - Production-ready AI browser automation framework with natural-language actions on top of Playwright. ![Stars](https://img.shields.io/github/stars/browserbase/stagehand?style=flat\&logo=github\&label=)
 
 ## Key Papers to Understand the Practice
 
@@ -113,4 +113,4 @@ Contributions welcome! This list prioritizes practical, team-applicable resource
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
